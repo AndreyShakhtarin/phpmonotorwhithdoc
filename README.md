@@ -498,3 +498,4 @@ Base query
         	}
         	
 end other for operation for connect
+if you wantn added your logic for query you can added or added doctrine2 as service 
